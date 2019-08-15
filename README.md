@@ -1,0 +1,3 @@
+# westernpips-crypto-trader-1.7
+Updated version of Westernpips Crypto Trader 1.7 software.
+Was added the ability to trade multiple currencies Bitcoin, Ethereum, Lite Coin, Ripple, Bitcoin Cash, Dash, Monero, NEO, EOS, IOT, Zcash, NEM, TRON. Now you have even more opportunities for arbitrage trading in crypto currencies. At the same time, you can trade at once for five different crypto currencies of your choice. The balance for the chosen crypto currency will be displayed automatically in the trade table. It is also possible to exchange crypto currencies directly from the program by clicking on the buy / sell buttons. At any time you can transfer the balance from one Crypto currency to another.
